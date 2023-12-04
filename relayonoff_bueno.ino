@@ -1,4 +1,3 @@
-#include <Arduino.h>
 
 const int RELAY_PIN[] = {2, 6, 7, 8};
 
